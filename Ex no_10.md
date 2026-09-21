@@ -32,12 +32,10 @@ int factorial(int n)
 
 int main() {
     int num, result;
-    
-    printf("Enter a number: ");
     scanf("%d", &num);
     
     result = factorial(num);
-    printf("Factorial of %d = %d\n", num, result);
+    printf("Factorial value is: %d\n",result);
     
     return 0;
 }
