@@ -35,7 +35,7 @@ int main()
         num /= 10;
     } while(num != 0);
 
-    printf("Sum of odd digits = %d\n", sum);
+    printf("%d\n", sum);
 
     return 0;
 }
@@ -43,7 +43,7 @@ int main()
 ```
 
 ## Output:
-<img width="388" height="231" alt="image" src="https://github.com/user-attachments/assets/e09f8266-71ef-4335-ac5f-7731560fb9b4" />
+<img width="431" height="247" alt="image" src="https://github.com/user-attachments/assets/43c15e3d-b500-4c4b-8b82-98b34b9e21e3" />
 
 ## Result:
 Thus the program was executed and the output was verified successfully.
