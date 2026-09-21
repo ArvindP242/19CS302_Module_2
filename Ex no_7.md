@@ -44,7 +44,7 @@ return 0;
 ```
 
 ## Output:
-<img width="392" height="181" alt="image" src="https://github.com/user-attachments/assets/9311f477-523f-4cda-9284-29cc1ef2062d" />
+<img width="573" height="681" alt="image" src="https://github.com/user-attachments/assets/54aff2bf-023a-4d38-86f5-92bcbc6bed33" />
 
 ## Result:
 Thus the program was executed and the output was verified successfully.
