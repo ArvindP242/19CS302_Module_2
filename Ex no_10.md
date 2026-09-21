@@ -32,7 +32,7 @@ int main()
 
 ## Output:
 
-<img width="709" height="159" alt="Screenshot 2026-03-19 130528" src="https://github.com/user-attachments/assets/a8ef931c-65c4-4d7e-8a67-aa03591b51a3" />
+<img width="880" height="195" alt="image" src="https://github.com/user-attachments/assets/69de33ef-19b1-43c3-9ba3-691868c2f4b0" />
 
 
 ## Result:
